@@ -1,6 +1,11 @@
-# landingpage-praticas
-landing page para a p1 do projeto de praticas extensionistas que é um marketplace 
+#Criar o site de práticas extensionistas atualizado.
 
+Deverá conter:
+
+Carrossel
+Menu Hamburger
+Tooltip
+Ser responsivo em pelo menos três dimensões. Menu hamburguer precisa aparecer no mobile.
 
 ## integrantes do grupo
 - Caio Sandor Sambor Oliveira - matricula: 202413773
